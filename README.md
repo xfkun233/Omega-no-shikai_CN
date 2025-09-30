@@ -24,7 +24,7 @@
 
 閂夜明（はり よあけ）独自包揽原画与剧本创作，打造出独一无二的世界观。
 
-除了由 onoken 先生、三泽秋女士担任主题曲的豪华阵容外，本次新作中还收录了由负责背景音乐的 Manack 先生作曲、mitose noriko（みとせのりこ）女士作词并演唱的插入歌（短篇版本）。
+除了由 onoken 、三泽秋担任主题曲的豪华阵容外，本次新作中还收录了由负责背景音乐的 Manack 作曲、mitose noriko（みとせのりこ）作词并演唱的插入歌（short ver.）。
 
 🛒 **[点击购买游戏](https://www.dlsite.com/home/work/=/product_id/RJ101805.html)**
 
