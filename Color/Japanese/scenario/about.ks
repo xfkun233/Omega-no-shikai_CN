@@ -1,0 +1,1 @@
+[eval exp="System.inform('『ＣＯＬＯＲ　〜色々〜』閂夜明駄話集：ω＋α Ver1.00 Copyright (C) nekobanana All Rights Reserved. ', 'バージョン情報')"]
