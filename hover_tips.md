@@ -51,7 +51,7 @@ tf.note  = "译注：原文“キサラカネコハ”反转之后得“箱根�
 tf.note += "为江户俗语“野暮と化け物は箱根から先”的一部分，[r]";
 tf.note += "意为蛮夷和怪物都在箱根以东，这是江户人（东京人）的自夸。";
 @endscript
-[tip text="如金箔猫" note=&tf.note color="0xff0000"]
+[tip text="如金箔猫" note=&tf.note]
 ```
 
 ## 批量应用建议
