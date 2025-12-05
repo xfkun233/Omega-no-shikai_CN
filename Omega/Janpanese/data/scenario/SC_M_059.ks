@@ -60,9 +60,11 @@
 　　相争うこの最悪の箱庭の中で、[r]
 　　取り敢えずはヒトが、その役を担うに都合が良かった……[l][r]
 　　或いは逆に、否、その辺りを考えると、[r]
-　　a question of which came first, [r]
-    the chicken or the egg──[pc]
-
+@iscript
+tf.note  = "“a question of which came first, the chicken or the egg”英语，经典哲学问题，先有鸡还是先有蛋。";
+@endscript
+　　[tip note=&tf.note]a question of which came first[endtip], [r]
+　　[tip note=&tf.note]the chicken or the egg[endtip]──[pc]
 
 ………。[pc]
 [r]
