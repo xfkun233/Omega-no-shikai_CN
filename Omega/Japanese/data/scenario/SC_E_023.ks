@@ -1,5 +1,5 @@
 ;SubT『スタンド・プレイ』[r]
-*E023|誰がめもくるまたした？
+*E023|スタンド・プレイ
 @sub_title img="sub_E023"
 @cm
 @mes_all
